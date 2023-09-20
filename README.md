@@ -1,4 +1,4 @@
-# Vanilla JS IMC Calculator
+# Vanilla JS BMI Calculator
 
 Pequeno projeto que tirei a tarde para fazer para reforçar alguns conceitos de JavaScript puro, trouxe uma tabela simples de cálculo de IMC, com algumas manipulações de DOM por js.
 
